@@ -1,0 +1,10 @@
+#container{
+    width:300px;
+    height:300px;
+    border:2px solid black;
+    /*background: linear-gradient(to top right, red, cyan  ,blue);*/
+    /*background:repeating-linear-gradient(to top right, red ,black 20px)*/
+    /*background:radial-gradient(red,black 30px,cyan 40px);*/
+    background: repeating-radial-gradient(red 0%, yellow 4%,black 6%);
+
+}   

@@ -1,0 +1,30 @@
+/* first-letter*/
+p::first-letter{
+    color:red;
+    font-size:3rem;
+}
+/* first-line*/
+p::first-line{
+    font-size:40px;
+    color:red;
+}
+/* ::before */
+p::before{
+    content:url(https://images.pexels.com/photos/13009437/pexels-photo-13009437.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    width:4px;
+    height:20px;
+}
+p::after{
+    content:url(https://images.pexels.com/photos/13009437/pexels-photo-13009437.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    width:4px;
+    height:20px;
+}
+P::before{
+    content: '"';
+}
+p::after{
+    content:'"';
+    font-size:40px;
+    color:red;
+}
+

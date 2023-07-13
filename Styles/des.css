@@ -1,0 +1,22 @@
+.product-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.product {
+  width: 25%;
+  margin-bottom: 20px;
+}
+
+.product img {
+  width: 100%;
+}
+
+.product h3 {
+  margin-top: 10px;
+}
+
+.product .price {
+  color: #f44336;
+  font-weight: bold;
+}

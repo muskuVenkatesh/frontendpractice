@@ -1,0 +1,14 @@
+#blue-box {
+border: 3px solid skyblue;
+background-color: black;
+
+}
+#orange-box {
+color: black;
+border: 1px solid burlywood;
+margin: 20px 50px;
+padding: 50px 0 20px 0;
+text-align: center;
+background-color: blue;
+color:white;
+text-align:center;

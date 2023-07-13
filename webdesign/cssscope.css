@@ -1,0 +1,26 @@
+:root{
+    --color-name:red;
+}
+#container{
+    padding:1rem;
+    border:2px solid black;
+    color:var(--color-name);
+}
+#smallcontainer{
+    --color-name:blue;
+    padding:1rem;
+    border:2px solid black;
+    color:var(--color--name);
+
+}
+#childcontainer{
+    padding:1rem;
+    border:2px solid black;
+    color:var(--color-name);
+}
+#smallchild{
+    padding:1rem;
+    border:2px solid black;
+    color:var(--color-name);
+    margin-top:1rem;
+}

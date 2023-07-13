@@ -1,0 +1,25 @@
+
+/* text-style*/
+#div1{
+	font-size:30px;
+	color: blue;
+	font-weight:bold;
+	text-align: right;
+	line-height: 30px;
+	text-transform: capitalize;
+	text-decoration: blink;
+	text-indent: 100px;
+	word-spacing: 10px;
+	text-shadow:2px 1px red;
+}
+
+/*adding background to an element*/
+#logo-img-container{
+	width: 200vh;
+	height:200vw;
+	background-image: url(C:\Users\DELL\Downloads\venkatlogo.jpg);
+    background-repeat: no-repeat;
+    /*background-position: center;*/
+    background-size:contain;
+    background-attachment: fixed;
+}

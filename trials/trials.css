@@ -1,0 +1,9 @@
+#dir-property{
+	background-color: yellow;
+	height:200px;
+	width:200px;
+	background-size: contain;
+	direction:rtl;
+	min-width:50%;
+	max-width:200px;
+}

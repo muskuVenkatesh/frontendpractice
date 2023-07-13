@@ -1,0 +1,22 @@
+html{
+	font-size:40px;
+}
+#venky{
+	height:100px;
+	width:200px;
+	background-color: red;
+	border
+}
+
+#venkat{
+	height:50%;
+	width:50%;
+	background-color: #e8ffe0;
+	border:2px solid blue;
+	border-radius:4px;
+
+}
+
+#color-des{
+	border-color: 20px solid maroon;
+}

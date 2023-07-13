@@ -1,0 +1,15 @@
+#development{
+    background-color: grey;
+    width: 400px;
+    height: 400px;
+    }
+    @media screen and (max-width: 300px) {
+    #development{
+    background-color: darkgreen;
+    }
+    }
+    @media screen and (max-width: 700px) {
+    #development{
+    background-color: pink;
+    }
+}

@@ -1,0 +1,28 @@
+#cube{
+    height:200px;
+    width:200px;
+    position:relative;
+    margin:100px;
+    transition-timing-function: preserve-3d;
+    perspective:100px;
+    transform:rotateX(25deg) rotateY(-25deg)
+}
+.face{
+    height:100%;
+    width:100%;
+    position:absolute;
+    top:20%;
+    left:20%;
+    transition: all 2s;
+    
+
+}
+.one{
+    background-color: black;
+    
+}
+.two{
+    background-color:blue;
+    transform:rotateY(90deg)
+    
+}
